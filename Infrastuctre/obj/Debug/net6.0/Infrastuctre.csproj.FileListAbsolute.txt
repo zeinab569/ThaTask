@@ -1,0 +1,17 @@
+C:\Users\lenovo\Documents\Coreations\Infrastuctre\bin\Debug\net6.0\Infrastuctre.deps.json
+C:\Users\lenovo\Documents\Coreations\Infrastuctre\bin\Debug\net6.0\Infrastuctre.runtimeconfig.json
+C:\Users\lenovo\Documents\Coreations\Infrastuctre\bin\Debug\net6.0\Infrastuctre.dll
+C:\Users\lenovo\Documents\Coreations\Infrastuctre\bin\Debug\net6.0\Infrastuctre.pdb
+C:\Users\lenovo\Documents\Coreations\Infrastuctre\bin\Debug\net6.0\Core.dll
+C:\Users\lenovo\Documents\Coreations\Infrastuctre\bin\Debug\net6.0\Core.pdb
+C:\Users\lenovo\Documents\Coreations\Infrastuctre\obj\Debug\net6.0\Infrastuctre.csproj.AssemblyReference.cache
+C:\Users\lenovo\Documents\Coreations\Infrastuctre\obj\Debug\net6.0\Infrastuctre.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Documents\Coreations\Infrastuctre\obj\Debug\net6.0\Infrastuctre.AssemblyInfoInputs.cache
+C:\Users\lenovo\Documents\Coreations\Infrastuctre\obj\Debug\net6.0\Infrastuctre.AssemblyInfo.cs
+C:\Users\lenovo\Documents\Coreations\Infrastuctre\obj\Debug\net6.0\Infrastuctre.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Documents\Coreations\Infrastuctre\obj\Debug\net6.0\Infrastuctre.csproj.CopyComplete
+C:\Users\lenovo\Documents\Coreations\Infrastuctre\obj\Debug\net6.0\Infrastuctre.dll
+C:\Users\lenovo\Documents\Coreations\Infrastuctre\obj\Debug\net6.0\refint\Infrastuctre.dll
+C:\Users\lenovo\Documents\Coreations\Infrastuctre\obj\Debug\net6.0\Infrastuctre.pdb
+C:\Users\lenovo\Documents\Coreations\Infrastuctre\obj\Debug\net6.0\Infrastuctre.genruntimeconfig.cache
+C:\Users\lenovo\Documents\Coreations\Infrastuctre\obj\Debug\net6.0\ref\Infrastuctre.dll
